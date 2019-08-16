@@ -1,0 +1,17 @@
+body {
+  font-family: arial;
+  text-align: center;
+}
+
+#main-title {
+  color: #11647f;
+}
+
+#change-color-button {
+  background-color: #c9c9c9;
+  font-size: 22px;
+  padding: 5px 10px;
+  border: 1px solid #a9a9a9;
+  border-radius: 5px;
+  cursor: pointer;
+}
